@@ -24,7 +24,8 @@ movie
          b.studio, which is a String representing the studio that made the movie.
          c.rating, which is a String representing the rating of the movie.
          d.The constructor for the class Movie will set the class property rating to "PG" as default when no rating is provided.
-   2. A method getPG, which takes an array of base type Movie as its argument, and returns a new array of only those movies in the input array with a rating of "PG".The input array is full of Movie instances.
+    
+    2.A method getPG, which takes an array of base type Movie as its argument, and returns a new array of only those movies in the input array with a rating of "PG".The input array is full of Movie instances.
 
 
 person
